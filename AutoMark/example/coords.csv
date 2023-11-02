@@ -1,0 +1,10 @@
+Question ID,X,Y,Width,Height,Type,,
+1,595,166,103,70,Answer,int,3
+1,595,241,103,90,Answer,int,6
+1,595,336,103,76,Answer,int,9
+2,746,485,103,72,Answer,int,2
+2,746,562,103,90,Answer,int,-4
+2,746,657,103,76,Answer,int,-10
+4,703,1124,103,76,Answer,float,2.1
+4,703,1205,103,90,Answer,float,-1.2
+4,703,1300,103,71,Answer,float,6.3
